@@ -1,12 +1,3 @@
-/**
-
-Program d�zg�n �al��maktad�r.
-Grup S�ra No : 139
-Ekrem Hatipo�lu - 150202089
-Onur Burak �oky�ld�r�m - 150202111
-
-*/
-
 #include <graphics.h>
 #include <windows.h>
 #include <stdio.h>
